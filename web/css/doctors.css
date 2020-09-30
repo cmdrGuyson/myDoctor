@@ -1,0 +1,30 @@
+.doctor-image {
+  height: 120px;
+  width: 120px;
+  object-fit: cover;
+  border: 2px groove;
+  border-radius: 50%;
+  border-color: #32bea6;
+}
+
+.doc-card {
+  position: absolute;
+  top: 26%;
+  left: 30%;
+}
+
+.card-body {
+  padding: 8px;
+  padding-left: 30px;
+  padding-right: 98px;
+}
+
+.btn {
+  color: #32bea6;
+  border-color: #32bea6;
+}
+
+.btn:hover {
+  border-color: #32bea6;
+  background-color: #32bea6;
+}
